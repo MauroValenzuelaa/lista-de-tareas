@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "tailwindcss-animated";
+@layer base {
+    body {
+        font-family: "Darumadrop One", sans-serif;
+    }
+
+    .font-darumadrop {
+        font-family: "Darumadrop One", sans-serif;
+    }
+
+    .font-poppins {
+        font-family: "Poppins", sans-serif;
+    }
+}
